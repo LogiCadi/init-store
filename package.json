@@ -1,0 +1,20 @@
+{
+  "name": "init-store",
+  "version": "1.0.9",
+  "description": "use context with easy library in React function component",
+  "main": "./dist/index.js",
+  "keywords": [
+    "typescript",
+    "react",
+    "useContext"
+  ],
+  "license": "MIT",
+  "author": "mm996",
+  "dependencies": {
+    "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.39",
+    "typescript": "^3.7.5"
+  }
+}
